@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(194, 79, 79);
+}
+
+.title {
+    text-align: center;
+    background-color: white;
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -8px;
+    color: black;
+    padding: 5px;
+}
+
+.content {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+    padding-bottom: 5px;
+    
+}
+
+.login_form {
+    text-align: center;
+}
